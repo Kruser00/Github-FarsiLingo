@@ -1,0 +1,8 @@
+{
+  "name": "FarsiLingo:LocalLessonService",
+  "description": "یک اپلیکیشن تعاملی برای فارسی‌زبانان برای یادگیری زبان انگلیسی از طریق درس‌ها، آزمون‌ها، تمرین‌های شنیداری و گفتاری، با قدرت هوش مصنوعی.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}

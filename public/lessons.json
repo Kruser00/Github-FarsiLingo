@@ -1,0 +1,273 @@
+
+{
+  "Beginner-The Alphabet": [
+    [
+      { "type": "ALPHABET_PRACTICE", "prompt": "A a", "farsiPrompt": "حرف ای", "answer": "A", "exampleWord": "Apple", "iconName": "AppleIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "B b", "farsiPrompt": "حرف بی", "answer": "B", "exampleWord": "Book", "iconName": "BookOpenIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "C c", "farsiPrompt": "حرف سی", "answer": "C", "exampleWord": "Clock", "iconName": "ClockIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "D d", "farsiPrompt": "حرف دی", "answer": "D", "exampleWord": "Dog", "iconName": "DogIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "E e", "farsiPrompt": "حرف ای", "answer": "E", "exampleWord": "Egg", "iconName": "EggIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "F f", "farsiPrompt": "حرف اِف", "answer": "F", "exampleWord": "Fish", "iconName": "FishIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "G g", "farsiPrompt": "حرف جی", "answer": "G", "exampleWord": "Globe", "iconName": "GlobeIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "H h", "farsiPrompt": "حرف اِچ", "answer": "H", "exampleWord": "Heart", "iconName": "HeartIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "I i", "farsiPrompt": "حرف آی", "answer": "I", "exampleWord": "Info", "iconName": "InfoIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "J j", "farsiPrompt": "حرف جِی", "answer": "J", "exampleWord": "Jigsaw", "iconName": "JigsawIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "K k", "farsiPrompt": "حرف کِی", "answer": "K", "exampleWord": "Key", "iconName": "KeyIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "L l", "farsiPrompt": "حرف اِل", "answer": "L", "exampleWord": "Lock", "iconName": "LockIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "M m", "farsiPrompt": "حرف اِم", "answer": "M", "exampleWord": "Map", "iconName": "MapPinIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "N n", "farsiPrompt": "حرف اِن", "answer": "N", "exampleWord": "Notebook", "iconName": "NotebookIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "O o", "farsiPrompt": "حرف اُ", "answer": "O", "exampleWord": "Open", "iconName": "BookOpenIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "P p", "farsiPrompt": "حرف پی", "answer": "P", "exampleWord": "Plane", "iconName": "PlaneIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "Q q", "farsiPrompt": "حرف کیو", "answer": "Q", "exampleWord": "Quote", "iconName": "QuoteIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "R r", "farsiPrompt": "حرف آر", "answer": "R", "exampleWord": "Rocket", "iconName": "RocketIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "S s", "farsiPrompt": "حرف اِس", "answer": "S", "exampleWord": "Smile", "iconName": "SmileIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "T t", "farsiPrompt": "حرف تی", "answer": "T", "exampleWord": "Trophy", "iconName": "TrophyIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "U u", "farsiPrompt": "حرف یو", "answer": "U", "exampleWord": "Users", "iconName": "UsersIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "V v", "farsiPrompt": "حرف وی", "answer": "V", "exampleWord": "Video", "iconName": "VideoIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "W w", "farsiPrompt": "حرف دابِلیو", "answer": "W", "exampleWord": "Wallet", "iconName": "WalletIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "X x", "farsiPrompt": "حرف اِکس", "answer": "X", "exampleWord": "X-ray (in a box)", "iconName": "ArchiveIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "Y y", "farsiPrompt": "حرف وای", "answer": "Y", "exampleWord": "Yoga", "iconName": "YogaIcon" },
+      { "type": "ALPHABET_PRACTICE", "prompt": "Z z", "farsiPrompt": "حرف زِد", "answer": "Z", "exampleWord": "Zap", "iconName": "ZapIcon" }
+    ]
+  ],
+  "Beginner-Numbers 1-10": [
+    [
+      { "type": "LEARN", "prompt": "One", "farsiPrompt": "یک", "sentence": "I have one dog.", "farsiSentenceExample": "من یک سگ دارم." },
+      { "type": "LEARN", "prompt": "Two", "farsiPrompt": "دو", "sentence": "She has two cats.", "farsiSentenceExample": "او دو گربه دارد." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How do you write 'دو' in English?", "farsiPrompt": "چطور 'دو' را به انگلیسی می‌نویسید؟", "options": ["One", "Three", "Two", "Four"], "answer": "Two" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "یک", "answer": "One" },
+      { "type": "LEARN", "prompt": "Three", "farsiPrompt": "سه", "sentence": "We see three birds.", "farsiSentenceExample": "ما سه پرنده می‌بینیم." },
+      { "type": "LEARN", "prompt": "Four", "farsiPrompt": "چهار", "sentence": "There are four books.", "farsiSentenceExample": "چهار کتاب وجود دارد." },
+      { "type": "LEARN", "prompt": "Five", "farsiPrompt": "پنج", "sentence": "He ate five apples.", "farsiSentenceExample": "او پنج سیب خورد." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "There are ___ fingers on one hand.", "answer": "five" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which number comes after three?", "farsiPrompt": "چه عددی بعد از سه می‌آید؟", "options": ["Two", "Five", "Four", "One"], "answer": "Four" },
+      { "type": "LEARN", "prompt": "Six", "farsiPrompt": "شش", "sentence": "The box has six sides.", "farsiSentenceExample": "جعبه شش وجه دارد." },
+      { "type": "LEARN", "prompt": "Seven", "farsiPrompt": "هفت", "sentence": "There are seven days in a week.", "farsiSentenceExample": "در یک هفته هفت روز وجود دارد." },
+      { "type": "LEARN", "prompt": "Eight", "farsiPrompt": "هشت", "sentence": "An octopus has eight arms.", "farsiSentenceExample": "یک هشت‌پا هشت بازو دارد." },
+      { "type": "LEARN", "prompt": "Nine", "farsiPrompt": "نه", "sentence": "She is nine years old.", "farsiSentenceExample": "او نه ساله است." },
+      { "type": "LEARN", "prompt": "Ten", "farsiPrompt": "ده", "sentence": "I have ten pencils.", "farsiSentenceExample": "من ده مداد دارم." },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Ten", "answer": "ده" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "1", "farsiPrompt": "یک", "sentence": "One apple.", "farsiSentenceExample": "یک سیب." },
+      { "type": "LEARN", "prompt": "2", "farsiPrompt": "دو", "sentence": "Two balls.", "farsiSentenceExample": "دو توپ." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is 'One'?", "farsiPrompt": "'One' چیست؟", "options": ["۲", "۱", "۳", "۴"], "answer": "۱" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Two", "answer": "دو" },
+      { "type": "LEARN", "prompt": "3", "farsiPrompt": "سه", "sentence": "Three cars.", "farsiSentenceExample": "سه ماشین." },
+      { "type": "LEARN", "prompt": "4", "farsiPrompt": "چهار", "sentence": "Four chairs.", "farsiSentenceExample": "چهار صندلی." },
+      { "type": "LEARN", "prompt": "5", "farsiPrompt": "پنج", "sentence": "Five stars.", "farsiSentenceExample": "پنج ستاره." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "I see ___ cars.", "answer": "three" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How many stars?", "farsiPrompt": "چند ستاره؟", "sentence": "⭐️⭐️⭐️⭐️⭐️", "options": ["Four", "Six", "Five", "Three"], "answer": "Five" },
+      { "type": "LEARN", "prompt": "6", "farsiPrompt": "شش", "sentence": "Six pencils.", "farsiSentenceExample": "شش مداد." },
+      { "type": "LEARN", "prompt": "7", "farsiPrompt": "هفت", "sentence": "Seven flowers.", "farsiSentenceExample": "هفت گل." },
+      { "type": "LEARN", "prompt": "8", "farsiPrompt": "هشت", "sentence": "Eight legs on a spider.", "farsiSentenceExample": "عنکبوت هشت پا دارد." },
+      { "type": "LEARN", "prompt": "9", "farsiPrompt": "نه", "sentence": "Nine dots.", "farsiSentenceExample": "نه نقطه." },
+      { "type": "LEARN", "prompt": "10", "farsiPrompt": "ده", "sentence": "Ten fingers.", "farsiSentenceExample": "ده انگشت." },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "ده", "answer": "Ten" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "One (1)", "farsiPrompt": "یک", "sentence": "This is number one.", "farsiSentenceExample": "این شماره یک است." },
+      { "type": "LEARN", "prompt": "Three (3)", "farsiPrompt": "سه", "sentence": "One, two, three.", "farsiSentenceExample": "یک، دو، سه." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is this number: 3?", "farsiPrompt": "این چه عددی است: ۳؟", "options": ["One", "Three", "Five", "Two"], "answer": "Three" },
+      { "type": "LEARN", "prompt": "Five (5)", "farsiPrompt": "پنج", "sentence": "A star has five points.", "farsiSentenceExample": "یک ستاره پنج گوشه دارد." },
+      { "type": "LEARN", "prompt": "Seven (7)", "farsiPrompt": "هفت", "sentence": "A week has seven days.", "farsiSentenceExample": "یک هفته هفت روز دارد." },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "پنج", "answer": "Five" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is this number: 7?", "farsiPrompt": "این چه عددی است: ۷؟", "options": ["Six", "Eight", "Seven", "Nine"], "answer": "Seven" },
+      { "type": "LEARN", "prompt": "Nine (9)", "farsiPrompt": "نه", "sentence": "The cat has nine lives.", "farsiSentenceExample": "گربه نه جان دارد." },
+      { "type": "LEARN", "prompt": "Ten (10)", "farsiPrompt": "ده", "sentence": "I have ten toes.", "farsiSentenceExample": "من ده انگشت پا دارم." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "The number before ten is ___.", "answer": "nine" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "Four (4)", "farsiPrompt": "چهار", "sentence": "A car has four wheels.", "farsiSentenceExample": "یک ماشین چهار چرخ دارد." },
+      { "type": "LEARN", "prompt": "Six (6)", "farsiPrompt": "شش", "sentence": "A dice has six faces.", "farsiSentenceExample": "یک تاس شش وجه دارد." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which number is 'شش'?", "farsiPrompt": "کدام عدد 'شش' است؟", "options": ["4", "5", "6", "7"], "answer": "6" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Four", "answer": "چهار" },
+      { "type": "LEARN", "prompt": "Eight (8)", "farsiPrompt": "هشت", "sentence": "Let's meet at eight o'clock.", "farsiSentenceExample": "بیا ساعت هشت ملاقات کنیم." },
+      { "type": "LEARN", "prompt": "Two (2)", "farsiPrompt": "دو", "sentence": "I have two eyes.", "farsiSentenceExample": "من دو چشم دارم." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How many eyes do you have?", "farsiPrompt": "شما چند چشم دارید؟", "options": ["One", "Two", "Three", "Four"], "answer": "Two" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "A stop sign has ___ sides.", "answer": "eight" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "شش", "answer": "Six" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "1 to 5", "farsiPrompt": "۱ تا ۵", "sentence": "Let's count: one, two, three, four, five.", "farsiSentenceExample": "بیا بشماریم: یک، دو، سه، چهار، پنج." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is 'four'?", "farsiPrompt": "'four' چیست؟", "options": ["۱", "۲", "۳", "۴"], "answer": "۴" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "سه", "answer": "Three" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "One, ___, three, four, five.", "answer": "two" },
+      { "type": "LEARN", "prompt": "6 to 10", "farsiPrompt": "۶ تا ۱۰", "sentence": "Let's continue: six, seven, eight, nine, ten.", "farsiSentenceExample": "ادامه دهیم: شش، هفت، هشت، نه، ده." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is 'nine'?", "farsiPrompt": "'nine' چیست؟", "options": ["۷", "۸", "۹", "۱۰"], "answer": "۹" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Seven", "answer": "هفت" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank", "farsiPrompt": "جای خالی را پر کنید", "sentence": "Six, seven, ___, nine, ten.", "answer": "eight" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is the last number?", "farsiPrompt": "آخرین عدد کدام است؟", "options": ["Eight", "Nine", "Ten", "Seven"], "answer": "Ten" }
+    ]
+  ],
+  "Beginner-Basic Greetings": [
+    [
+      { "type": "LEARN", "prompt": "Hello", "farsiPrompt": "سلام", "sentence": "Hello, my name is Sara.", "farsiSentenceExample": "سلام، اسم من سارا است." },
+      { "type": "LEARN", "prompt": "Goodbye", "farsiPrompt": "خداحافظ", "sentence": "Goodbye, see you tomorrow.", "farsiSentenceExample": "خداحافظ، فردا میبینمت." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How do you say 'سلام' in English?", "farsiPrompt": "چطور 'سلام' را به انگلیسی می‌گویید؟", "options": ["Goodbye", "Thank you", "Hello", "Sorry"], "answer": "Hello" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "خداحافظ", "answer": "Goodbye" },
+      { "type": "LEARN", "prompt": "Good morning", "farsiPrompt": "صبح بخیر", "sentence": "Good morning, how are you?", "farsiSentenceExample": "صبح بخیر، حالت چطور است؟" },
+      { "type": "LEARN", "prompt": "Good night", "farsiPrompt": "شب بخیر", "sentence": "Good night, sleep well.", "farsiSentenceExample": "شب بخیر، خوب بخوابی." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "You say ___ in the morning.", "answer": "Good morning" },
+      { "type": "LEARN", "prompt": "How are you?", "farsiPrompt": "حالت چطور است؟", "sentence": "How are you today?", "farsiSentenceExample": "امروز حالت چطور است؟" },
+      { "type": "LEARN", "prompt": "I am fine, thank you.", "farsiPrompt": "من خوبم، ممنون.", "sentence": "A: How are you? B: I am fine, thank you.", "farsiSentenceExample": "الف: حالت چطور است؟ ب: من خوبم، ممنون." },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "How are you?", "answer": "حالت چطور است؟" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is a common response to 'How are you?'", "farsiPrompt": "پاسخ رایج به 'حالت چطور است؟' چیست؟", "options": ["Good night", "I am fine, thank you", "Hello", "Goodbye"], "answer": "I am fine, thank you" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "Hi", "farsiPrompt": "سلام (غیر رسمی)", "sentence": "Hi, nice to meet you.", "farsiSentenceExample": "سلام، از دیدنت خوشحالم." },
+      { "type": "LEARN", "prompt": "Bye", "farsiPrompt": "خداحافظ (غیر رسمی)", "sentence": "Bye! See you later.", "farsiSentenceExample": "خداحافظ! بعدا میبینمت." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which greeting is informal?", "farsiPrompt": "کدام احوالپرسی غیر رسمی است؟", "options": ["Good morning", "Hi", "Hello", "Good afternoon"], "answer": "Hi" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "بعدا میبینمت.", "answer": "See you later." },
+      { "type": "LEARN", "prompt": "Good afternoon", "farsiPrompt": "عصر بخیر", "sentence": "Good afternoon, sir.", "farsiSentenceExample": "عصر بخیر، آقا." },
+      { "type": "LEARN", "prompt": "Good evening", "farsiPrompt": "عصر بخیر / شب بخیر (برای اول شب)", "sentence": "Good evening, welcome to our restaurant.", "farsiSentenceExample": "عصر بخیر، به رستوران ما خوش آمدید." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "When you leave work at 5 PM, you say 'Good ___'.", "answer": "afternoon" },
+      { "type": "LEARN", "prompt": "Thank you", "farsiPrompt": "ممنون", "sentence": "Thank you for your help.", "farsiSentenceExample": "ممنون بابت کمکتان." },
+      { "type": "LEARN", "prompt": "You're welcome", "farsiPrompt": "خواهش می‌کنم", "sentence": "A: Thank you! B: You're welcome.", "farsiSentenceExample": "الف: ممنون! ب: خواهش می‌کنم." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say after someone helps you?", "farsiPrompt": "بعد از اینکه کسی به شما کمک می‌کند چه می‌گویید؟", "options": ["Sorry", "Thank you", "Hello", "Goodbye"], "answer": "Thank you" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "Pleased to meet you.", "farsiPrompt": "از ملاقات شما خوشبختم.", "sentence": "Hello, I'm Ali. Pleased to meet you.", "farsiSentenceExample": "سلام، من علی هستم. از ملاقات شما خوشبختم." },
+      { "type": "LEARN", "prompt": "What's your name?", "farsiPrompt": "اسم شما چیست؟", "sentence": "A: What's your name? B: My name is Maryam.", "farsiSentenceExample": "الف: اسم شما چیست؟ ب: اسم من مریم است." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How do you ask for someone's name?", "farsiPrompt": "چطور اسم کسی را می‌پرسید؟", "options": ["How are you?", "My name is...", "What's your name?", "Hello"], "answer": "What's your name?" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "اسم من علی است.", "answer": "My name is Ali." },
+      { "type": "LEARN", "prompt": "Excuse me", "farsiPrompt": "ببخشید", "sentence": "Excuse me, where is the bathroom?", "farsiSentenceExample": "ببخشید، سرویس بهداشتی کجاست؟" },
+      { "type": "LEARN", "prompt": "Sorry", "farsiPrompt": "متاسفم", "sentence": "I'm sorry, I am late.", "farsiSentenceExample": "متاسفم، من دیر کردم." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "___, can you help me?", "answer": "Excuse me" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say if you make a mistake?", "farsiPrompt": "اگر اشتباهی مرتکب شوید چه می‌گویید؟", "options": ["Hello", "Thank you", "Sorry", "Goodbye"], "answer": "Sorry" }
+    ],
+    [
+      { "type": "LEARN", "prompt": "Have a nice day!", "farsiPrompt": "روز خوبی داشته باشید!", "sentence": "Goodbye! Have a nice day!", "farsiSentenceExample": "خداحافظ! روز خوبی داشته باشید!" },
+      { "type": "LEARN", "prompt": "You too.", "farsiPrompt": "شما هم همینطور.", "sentence": "A: Have a nice day! B: Thanks, you too.", "farsiSentenceExample": "الف: روز خوبی داشته باشید! ب: ممنون، شما هم همینطور." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is a good reply to 'Have a nice day!'?", "farsiPrompt": "پاسخ مناسب به 'روز خوبی داشته باشید!' چیست؟", "options": ["I am fine", "You too", "My name is...", "Good morning"], "answer": "You too" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Have a nice day!", "answer": "روز خوبی داشته باشید!" },
+      { "type": "LEARN", "prompt": "See you soon.", "farsiPrompt": "به زودی میبینمت.", "sentence": "I have to go now. See you soon.", "farsiSentenceExample": "من باید الان بروم. به زودی میبینمت." },
+      { "type": "LEARN", "prompt": "Take care.", "farsiPrompt": "مراقب خودت باش.", "sentence": "Bye, take care.", "farsiSentenceExample": "خداحافظ، مراقب خودت باش." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Bye, ___ care.", "answer": "take" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "مراقب خودت باش.", "answer": "Take care." }
+    ],
+    [
+      { "type": "LEARN", "prompt": "Greetings", "farsiPrompt": "احوالپرسی‌ها", "sentence": "In English, there are formal and informal greetings.", "farsiSentenceExample": "در انگلیسی، احوالپرسی‌های رسمی و غیررسمی وجود دارد." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which greeting would you use with your boss?", "farsiPrompt": "کدام احوالپرسی را با رئیستان استفاده می‌کنید؟", "options": ["Hi", "What's up?", "Good morning", "Hey"], "answer": "Good morning" },
+      { "type": "LEARN", "prompt": "Farewells", "farsiPrompt": "خداحافظی‌ها", "sentence": "We say 'Goodbye' or 'Bye' when we leave.", "farsiSentenceExample": "وقتی می‌رویم می‌گوییم 'Goodbye' یا 'Bye'." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say when you go to bed?", "farsiPrompt": "وقتی به رختخواب می‌روید چه می‌گویید؟", "options": ["Good morning", "Good afternoon", "Good evening", "Good night"], "answer": "Good night" },
+      { "type": "LEARN", "prompt": "Politeness", "farsiPrompt": "ادب", "sentence": "It is polite to say 'Thank you' and 'Please'.", "farsiSentenceExample": "گفتن 'ممنون' و 'لطفا' مودبانه است." },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "خواهش می‌کنم", "answer": "You're welcome" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Can I have some water, ___?", "answer": "please" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "A: Hello, ___ are you? B: I'm fine.", "farsiPrompt": "الف: سلام، ___؟ ب: من خوبم.", "options": ["what", "how", "who", "where"], "answer": "how" }
+    ]
+  ],
+  "Beginner-Unit 1 Challenge": [
+    [
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which letter comes after 'D'?", "farsiPrompt": "چه حرفی بعد از 'D' می‌آید؟", "options": ["C", "F", "E", "B"], "answer": "E" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank with a number.", "farsiPrompt": "جای خالی را با یک عدد پر کنید.", "sentence": "I have ___ fingers.", "answer": "ten" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "صبح بخیر", "answer": "Good morning" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How do you say 'خداحافظ' in English?", "farsiPrompt": "چطور 'خداحافظ' را به انگلیسی می‌گویید؟", "options": ["Hello", "Good morning", "Goodbye", "Thank you"], "answer": "Goodbye" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Three", "answer": "سه" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is the first letter of 'Apple'?", "farsiPrompt": "اولین حرف 'Apple' چیست؟", "options": ["P", "A", "L", "E"], "answer": "A" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "A: ___ are you? B: I am fine.", "answer": "How" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "من خوبم", "answer": "I am fine" }
+    ],
+    [
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "پنج", "answer": "Five" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What is the letter 'B' for in the alphabet lesson?", "farsiPrompt": "حرف 'B' در درس الفبا برای چه کلمه‌ای بود؟", "options": ["Ball", "Book", "Banana", "Box"], "answer": "Book" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Good ___, sleep well.", "answer": "night" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Hello", "answer": "سلام" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What number is between six and eight?", "farsiPrompt": "چه عددی بین شش و هشت است؟", "options": ["Five", "Nine", "Seven", "Ten"], "answer": "Seven" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "اسم شما چیست؟", "answer": "What's your name?" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "The last letter of the alphabet is ___.", "answer": "Z" }
+    ],
+    [
+      { "type": "MULTIPLE_CHOICE", "prompt": "How do you say 'Thank you' in Farsi?", "farsiPrompt": "چطور به فارسی می‌گویید 'Thank you'؟", "options": ["سلام", "خداحافظ", "ممنون", "ببخشید"], "answer": "ممنون" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "One, two, ___.", "answer": "three" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "شب بخیر", "answer": "Good night" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What letter does 'Cat' start with?", "farsiPrompt": "'Cat' با چه حرفی شروع می‌شود؟", "options": ["K", "S", "C", "D"], "answer": "C" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Eight", "answer": "هشت" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "A: ___ you later. B: Bye.", "answer": "See" }
+    ],
+    [
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "نه", "answer": "Nine" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say in the afternoon?", "farsiPrompt": "در بعد از ظهر چه می‌گویید؟", "options": ["Good morning", "Good afternoon", "Good evening", "Good night"], "answer": "Good afternoon" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "The letter before 'M' is ___.", "answer": "L" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "You're welcome", "answer": "خواهش می‌کنم" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "How many is 'two + two'?", "farsiPrompt": "'دو + دو' چند می‌شود؟", "options": ["Three", "Four", "Five", "Six"], "answer": "Four" }
+    ],
+    [
+      { "type": "MULTIPLE_CHOICE", "prompt": "A is for ___.", "farsiPrompt": "A برای ___ است.", "options": ["Ant", "Apple", "Airplane", "All of the above"], "answer": "All of the above" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "farsiSentence": "خواهش می‌کنم", "answer": "You're welcome" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Five, six, ___.", "answer": "seven" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate", "farsiPrompt": "ترجمه کنید", "sentence": "Goodbye", "answer": "خداحافظ" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say when you meet someone for the first time?", "farsiPrompt": "وقتی برای اولین بار کسی را ملاقات می‌کنید چه می‌گویید؟", "options": ["See you later", "Take care", "Nice to meet you", "You're welcome"], "answer": "Nice to meet you" }
+    ]
+  ],
+  "Beginner-Introducing Yourself": [],
+  "Beginner-Colors": [],
+  "Beginner-Common Objects": [],
+  "Beginner-Unit 2 Challenge": [],
+  "Beginner-Family Members": [],
+  "Beginner-Basic Foods": [],
+  "Beginner-Days of the Week": [],
+  "Beginner-Unit 3 Challenge": [],
+  "Beginner-The Verb 'To Be'": [],
+  "Beginner-The Verb 'To Have'": [],
+  "Beginner-Simple Questions": [],
+  "Beginner-Beginner Final Challenge": [],
+  "Intermediate-My Home": [],
+  "Intermediate-Telling Time & Dates": [],
+  "Intermediate-Shopping & Money": [],
+  "Intermediate-Unit 1 Challenge": [],
+  "Intermediate-Present Continuous": [],
+  "Intermediate-Hobbies & Free Time": [],
+  "Intermediate-Simple Past Tense": [],
+  "Intermediate-Unit 2 Challenge": [],
+  "Intermediate-Common Adjectives": [],
+  "Intermediate-Talking about the Weather": [],
+  "Intermediate-Comparatives": [],
+  "Intermediate-Unit 3 Challenge": [],
+  "Intermediate-Asking for Directions": [],
+  "Intermediate-Ordering at a Restaurant": [],
+  "Intermediate-Future Tense": [],
+  "Intermediate-Intermediate Final Challenge": [
+    [
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate the sentence.", "farsiPrompt": "جمله را ترجمه کنید.", "farsiSentence": "من قصد دارم هفته آینده به یک کشور جدید سفر کنم.", "answer": "I am going to travel to a new country next week." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Choose the correct past tense form.", "farsiPrompt": "شکل صحیح زمان گذشته را انتخاب کنید.", "sentence": "She ___ the book yesterday.", "options": ["read", "reads", "is reading", "was reading"], "answer": "read" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Could you tell me how to ___ to the library?", "answer": "get" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate the sentence.", "farsiPrompt": "جمله را ترجمه کنید.", "sentence": "This car is more expensive than that one.", "answer": "این ماشین گرانتر از آن یکی است." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What do you say when you order food?", "farsiPrompt": "هنگام سفارش غذا چه می گویید؟", "options": ["I will have the chicken salad, please.", "Give me the chicken salad.", "I want the chicken salad now.", "The chicken salad is for me."], "answer": "I will have the chicken salad, please." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "It is cloudy today, it might ___ later.", "answer": "rain" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate the sentence.", "farsiPrompt": "جمله را ترجمه کنید.", "farsiSentence": "ساعت چنده؟ ساعت ده و نیم است.", "answer": "What time is it? It's half past ten." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which action is happening now?", "farsiPrompt": "کدام عمل در حال حاضر اتفاق می افتد؟", "sentence": "They ___ football in the park.", "options": ["played", "play", "will play", "are playing"], "answer": "are playing" }
+    ],
+    [
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "She is the ___ person I know.", "answer": "kindest" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "farsiSentence": "او دیروز به مدرسه نرفت.", "answer": "He did not go to school yesterday." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Choose the correct form.", "farsiPrompt": "شکل صحیح را انتخاب کنید.", "sentence": "I haven't seen that movie ___.", "options": ["already", "yet", "still", "just"], "answer": "yet" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "sentence": "What are your plans for the weekend?", "answer": "برنامه شما برای آخر هفته چیست؟" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Complete the sentence.", "farsiPrompt": "جمله را کامل کنید.", "sentence": "Excuse me, how much ___ these shoes?", "options": ["is", "are", "do", "does"], "answer": "are" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "I enjoy ___ books in my free time.", "answer": "reading" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "farsiSentence": "آیا تا به حال در رستوران ایتالیایی غذا خورده‌اید؟", "answer": "Have you ever eaten at an Italian restaurant?" }
+    ],
+    [
+      { "type": "MULTIPLE_CHOICE", "prompt": "Choose the correct sentence.", "farsiPrompt": "جمله صحیح را انتخاب کنید.", "options": ["She will to come tomorrow.", "She is coming tomorrow.", "She came tomorrow.", "She comes tomorrow for sure."], "answer": "She is coming tomorrow." },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "farsiSentence": "هوا امروز آفتابی است، اما دیروز بارانی بود.", "answer": "The weather is sunny today, but it was rainy yesterday." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Turn left ___ the traffic lights.", "answer": "at" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "What's the opposite of 'hot'?", "farsiPrompt": "متضاد 'hot' چیست؟", "options": ["Warm", "Cold", "Sunny", "Cool"], "answer": "Cold" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "sentence": "I would like to make a reservation for two people.", "answer": "من می خواهم برای دو نفر میز رزرو کنم." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "I ___ to Paris last summer.", "answer": "went" }
+    ],
+    [
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "farsiSentence": "سرگرمی مورد علاقه شما چیست؟", "answer": "What is your favorite hobby?" },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Complete the sentence.", "farsiPrompt": "جمله را کامل کنید.", "sentence": "This is the ___ movie I have ever seen.", "options": ["good", "better", "best", "goodest"], "answer": "best" },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "Can I have the ___, please?", "answer": "bill" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "sentence": "They are watching TV right now.", "answer": "آنها در حال حاضر در حال تماشای تلویزیون هستند." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Which sentence is correct?", "farsiPrompt": "کدام جمله صحیح است؟", "options": ["He no have a car.", "He don't have a car.", "He doesn't have a car.", "He not have a car."], "answer": "He doesn't have a car." }
+    ],
+    [
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "It's a beautiful day, let's go ___ a walk.", "answer": "for" },
+      { "type": "TRANSLATE_TO_ENGLISH", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "farsiSentence": "او از من بلندتر است.", "answer": "He is taller than me." },
+      { "type": "MULTIPLE_CHOICE", "prompt": "Choose the correct question.", "farsiPrompt": "سوال صحیح را انتخاب کنید.", "sentence": "___ time does the train leave?", "options": ["What", "When", "Where", "Which"], "answer": "What" },
+      { "type": "TRANSLATE_TO_FARSI", "prompt": "Translate.", "farsiPrompt": "ترجمه کنید.", "sentence": "She was sleeping when I called.", "answer": "وقتی زنگ زدم او خواب بود." },
+      { "type": "FILL_IN_THE_BLANK", "prompt": "Fill in the blank.", "farsiPrompt": "جای خالی را پر کنید.", "sentence": "I am looking forward ___ seeing you.", "answer": "to" }
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FarsiLingo: انگلیسی یاد بگیرید",
+  "short_name": "FarsiLingo",
+  "description": "یک اپلیکیشن تعاملی برای فارسی‌زبانان برای یادگیری زبان انگلیسی از طریق درس‌ها، آزمون‌ها، تمرین‌های شنیداری و گفتاری، با قدرت هوش مصنوعی.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
